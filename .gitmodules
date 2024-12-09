@@ -1,0 +1,12 @@
+[submodule "build"]
+	path = build
+	url = https://github.com/pgedge/pgbin-build
+[submodule "cli"]
+	path = cli
+	url = https://github.com/pgedge/cli
+[submodule "ivory"]
+	path = ivory
+	url = https://github.com/ivorysql/ivorysql
+[submodule "debezium"]
+	path = debezium
+	url = https://github.com/debezium/debezium
